@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidSqliteNew</string>
+    <string name="sqlite_database">SQLite Database</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="add">ADD</string>
+    <string name="view">View</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+</resources>
